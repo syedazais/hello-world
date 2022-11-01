@@ -8,5 +8,4 @@ public class HelloWorld
 		}
 	}
 }
-hia
-s
+
